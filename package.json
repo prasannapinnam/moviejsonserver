@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "fake RESTAPI for movies_advanced_app",
   "main": "server.js",
-  "homepage":"https://github.com/prasannapinnam/moviejsonserver.git",
+  "homepage":"http://prasannapinnam.github.io/moviejsonserver",
   "scripts": {
     "auth": "node server.js"
   },
