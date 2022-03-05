@@ -1,0 +1,19 @@
+{
+  "name": "json_server",
+  "version": "1.0.0",
+  "description": "fake RESTAPI for movies_advanced_app",
+  "main": "server.js",
+  "homepage":"https://github.com/prasannapinnam/moviejsonserver.git",
+  "scripts": {
+    "auth": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}

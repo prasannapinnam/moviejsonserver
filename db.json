@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "prasannapinnam999@gmail.com",
+      "password": "pras@1304",
+      "name": "lakshmiPrasanna"
+    },
+    {
+      "id": "2",
+      "email": "pjrradvocate@gmail.com",
+      "password": "pjrr@06",
+      "name": "pjrr"
+    },
+    {
+      "id": "3",
+      "email": "pinnamvijayalakshmi@gmail.com",
+      "password": "pvjl@13",
+      "name": "vijayalakshmi"
+    },
+    {
+      "id": "4",
+      "email": "rama@gmail.com",
+      "password": "harerama",
+      "name": "vasudeva"
+    },
+    {
+      "email": "vasudev@gmail.com",
+      "password": "12345",
+      "name": "vasudevSriKrishna",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InZhc3VkZXZAZ21haWwuY29tIiwicGFzc3dvcmQiOiIxMjM0NSIsIm5hbWUiOiJ2YXN1ZGV2U3JpS3Jpc2huYSIsImlhdCI6MTY0NjI5MjY2MiwiZXhwIjoxNjQ2Mjk2MjYyfQ.H9EJAZc3LnCzg6Stku5I_Bb1v_RNvtpNqYtKTyUKdHY",
+      "id": "N8seMpG"
+    }
+  ]
+}
